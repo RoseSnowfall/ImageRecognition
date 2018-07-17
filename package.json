@@ -1,0 +1,29 @@
+{
+  "name": "imagerecognition",
+  "version": "1.0.0",
+  "description": "Image Recognition bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoseSnowfall/ImageRecognition.git"
+  },
+  "keywords": [
+    "Image",
+    "Recognition",
+    "TensorFlow",
+    "Node.js"
+  ],
+  "author": "Hongyi Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoseSnowfall/ImageRecognition/issues"
+  },
+  "homepage": "https://github.com/RoseSnowfall/ImageRecognition#readme",
+  "dependencies": {
+    "node-json-db": "^0.7.5"
+  }
+}
